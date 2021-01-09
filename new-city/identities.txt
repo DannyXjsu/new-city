@@ -1,0 +1,4 @@
+Identities that starts with 'C' are context identities, they are strings that returns a context, for example, the id C0000 returns the introduction of the game
+Here's a list of all of the C identities
+	
+	C0000 = Introduction
